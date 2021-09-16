@@ -40,7 +40,7 @@ Scene쪽 오른쪽 위에 조그만 버튼 2d가 있다.
 
 게임이 표시되는 화면, 해상도로 크기 결정.
 
-![Lec 13-1 world screen](Lec 13-1 world screen.PNG)
+![Lec_13-1_world screen](Lec_13-1_world screen.PNG)
 
 
 
