@@ -30,7 +30,7 @@ https://assetstore.unity.com/
 
 ### 강의 요약
 
-- 1강
+- ### 1강
 
 설치 방법
 
@@ -38,31 +38,31 @@ https://assetstore.unity.com/
 
 
 
-- 2강
+- ### 2강
 
 유니티 에디터
 
 4개의 창으로 구성
 
-- 프로젝트
+- 프로젝트(Project)
 
   게임을 구성하는 파일들, 그래픽, 사운드 모두 프로젝트 창에 들어간다.
 
   
 
-- 계층구조
+- 계층구조(Hierarchy)
 
   게임 오브젝트를 확인하거나, 직접 만들 수 있다.
 
   
 
-- 장면
+- 장면(Scene)
 
   게임 오브젝트는 장면 창에서 우리 눈에 보이게 된다.
 
   
 
-- 인스펙터
+- 인스펙터(Inspector)
 
   게임 오브젝트들을 선택하게 되면, 인스펙터 창에서 속성들을 확인할 수 있다.
 
@@ -74,7 +74,7 @@ https://assetstore.unity.com/
 
 
 
-- 3강
+- ### 3강
 
 연극 > 막 > 인물&소품 > 대본
 
@@ -86,7 +86,7 @@ https://assetstore.unity.com/
 
 
 
-- 4강
+- ### 4강
 
 [self] 꿀팁) .cs 파일 vscode와 연동시키기
 
@@ -106,7 +106,7 @@ https://assetstore.unity.com/
 
 
 
-- 5강
+- ### 5강
 
 C# 스크립트 기초 문법
 
@@ -134,7 +134,7 @@ C# 스크립트 기초 문법
 
 
 
-- 6강
+- ### 6강
 
 unity lifecycle
 
@@ -232,7 +232,7 @@ CPU 부하가 많다.
 
 
 
-- 7강
+- ### 7강
 
 ### 키보드, 마우스 입력
 
@@ -360,7 +360,7 @@ Translate 말 그대로 이동을 한다!
 
 
 
-- 8강
+- ### 8강
 
 목표 지점으로 이동하는 방식 공부
 
@@ -400,7 +400,7 @@ Translate 말 그대로 이동을 한다!
 
 
 
-- 9강
+- ### 9강
 
 델타타임
 
@@ -430,7 +430,7 @@ Vector3.Lerp(Vec1, Vec2, T * Time.deltaTime);
 
 
 
-- 10강
+- ### 10강
 
 현실 세계와 같은 실제 물체 만들기
 
@@ -538,7 +538,7 @@ Mesh[점, 폴리곤, UV를 관리하는 구조체], Material[재질], Collider[�
 
 
 
-- 11강
+- ### 11강
 
 실제로 힘을 줘서 물체를 움직여보자
 
@@ -576,7 +576,7 @@ Mesh[점, 폴리곤, UV를 관리하는 구조체], Material[재질], Collider[�
 
 
 
-- 12강
+- ### 12강
 
 물리 충돌 이벤트
 
@@ -628,7 +628,7 @@ void OnTriggerExit(Collider other) {}
 
 
 
-- 13강
+- ### 13강
 
 UGUI (Unity Graphic User Interface)
 
@@ -724,7 +724,7 @@ UGUI (Unity Graphic User Interface)
 
 
 
-- 14강
+- ### 14강
 
 예제 모아서 게임 만들기
 
