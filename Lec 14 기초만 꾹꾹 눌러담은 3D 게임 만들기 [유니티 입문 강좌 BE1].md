@@ -4,14 +4,14 @@ https://www.youtube.com/watch?v=pTc1dakebow&list=PLO-mt5Iu5TeYI4dbYwWP8JqZMC9iuU
 
 ## 목차
 
-- [1._계획하기](#1._계획하기)
-- [2._플레이어](#2._플레이어)
-- [3._아이템](#3._아이템)
-- [4._카메라](#4._카메라)
-- [5._결승점](#5._결승점)
-- [6._장면 이동](#6._장면_이동)
-- [7._스테이지](#7._스테이지)
-- [8._UI](#8._UI)
+- [1.계획하기](#1.계획하기)
+- [2.플레이어](#2.플레이어)
+- [3.아이템](#3.아이템)
+- [4.카메라](#4.카메라)
+- [5.결승점](#5.결승점)
+- [6.장면이동](#6.장면이동)
+- [7.스테이지](#7.스테이지)
+- [8.UI](#8.UI)
 - [Build](#Build)
 
 
@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=pTc1dakebow&list=PLO-mt5Iu5TeYI4dbYwWP8JqZMC9iuU
 
 
 
-## 1._계획하기
+## 1.계획하기
 
 1. 게임 이름: 굴러서 템먹기
 2. 장르: 캐주얼 액션
@@ -38,7 +38,7 @@ https://www.youtube.com/watch?v=pTc1dakebow&list=PLO-mt5Iu5TeYI4dbYwWP8JqZMC9iuU
 
 
 
-## 2._플레이어
+## 2.플레이어
 
 Hierarchy - 우클릭 - 3D Object - Sphere
 
@@ -140,7 +140,7 @@ Create Material해서 재질 설정도 가능.
 
 
 
-## 3._아이템
+## 3.아이템
 
 원하는 형태 쓰십셔
 
@@ -444,7 +444,7 @@ Player, Item 상호작용도 배웠다.
 
 
 
-## 4._카메라
+## 4.카메라
 
 카메라가 player 따라가도록 하자.
 
@@ -521,7 +521,7 @@ Offset으로 설정해준다.
 
 
 
-## 5._결승점
+## 5.결승점
 
 Hierarchy에서 우클릭 - 3D Object - Cylinder로 결승점 만들자.
 
@@ -616,7 +616,7 @@ Hierarchy의 GameManager를 Drag&Drop
 
 
 
-## 6._장면_이동
+## 6.장면이동
 
 SceneManager: 장면을 관리하는 기본 클래스
 
@@ -727,7 +727,7 @@ public class GameManagerLogic : MonoBehaviour
 
 
 
-## 7._스테이지
+## 7.스테이지
 
 다 스킵하시네.. 순수 노가다
 
@@ -779,7 +779,7 @@ LoadScene의 매개변수는 장면 순서(int)도 가능.
 
 
 
-## 8._UI
+## 8.UI
 
 Hierarchy - UI - Image
 
