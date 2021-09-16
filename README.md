@@ -138,7 +138,7 @@ C# 스크립트 기초 문법
 
 unity lifecycle
 
-![6-1 life cycle](6-1 life cycle.PNG)
+![6-1_life_cycle](6-1_life_cycle.PNG)
 
 
 
