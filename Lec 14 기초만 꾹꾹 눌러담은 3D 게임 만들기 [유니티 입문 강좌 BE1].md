@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=pTc1dakebow&list=PLO-mt5Iu5TeYI4dbYwWP8JqZMC9iuU
 
 ## 목차
 
-- [1.계획하기](#1.계획하기)
+- [1_계획하기](#1_계획하기)
 - [2.플레이어](#2.플레이어)
 - [3.아이템](#3.아이템)
 - [4.카메라](#4.카메라)
@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=pTc1dakebow&list=PLO-mt5Iu5TeYI4dbYwWP8JqZMC9iuU
 
 
 
-## 1.계획하기
+## 1_계획하기
 
 1. 게임 이름: 굴러서 템먹기
 2. 장르: 캐주얼 액션
