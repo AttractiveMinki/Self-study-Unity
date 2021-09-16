@@ -42,7 +42,7 @@ https://www.youtube.com/watch?v=pTc1dakebow&list=PLO-mt5Iu5TeYI4dbYwWP8JqZMC9iuU
 
 
 
-## 2.플레이어
+## 2_플레이어
 
 Hierarchy - 우클릭 - 3D Object - Sphere
 
@@ -144,7 +144,7 @@ Create Material해서 재질 설정도 가능.
 
 
 
-## 3.아이템
+## 3_아이템
 
 원하는 형태 쓰십셔
 
@@ -448,7 +448,7 @@ Player, Item 상호작용도 배웠다.
 
 
 
-## 4.카메라
+## 4_카메라
 
 카메라가 player 따라가도록 하자.
 
@@ -525,7 +525,7 @@ Offset으로 설정해준다.
 
 
 
-## 5.결승점
+## 5_결승점
 
 Hierarchy에서 우클릭 - 3D Object - Cylinder로 결승점 만들자.
 
@@ -620,7 +620,7 @@ Hierarchy의 GameManager를 Drag&Drop
 
 
 
-## 6.장면이동
+## 6_장면이동
 
 SceneManager: 장면을 관리하는 기본 클래스
 
@@ -731,7 +731,7 @@ public class GameManagerLogic : MonoBehaviour
 
 
 
-## 7.스테이지
+## 7_스테이지
 
 다 스킵하시네.. 순수 노가다
 
@@ -783,7 +783,7 @@ LoadScene의 매개변수는 장면 순서(int)도 가능.
 
 
 
-## 8.UI
+## 8_UI
 
 Hierarchy - UI - Image
 
