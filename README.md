@@ -2,6 +2,8 @@
 
 By 골드메탈 님
 
+https://www.youtube.com/playlist?list=PLO-mt5Iu5TeYI4dbYwWP8JqZMC9iuUIW2
+
 
 
 - ### 목표
@@ -22,7 +24,7 @@ AI 관련 특화 프로젝트에서, 3d 게임을 만들기 위한 사전 학습
 
 ### 추가로 도움을 받은 사이트 모음
 
-
+https://assetstore.unity.com/
 
 
 
