@@ -88,7 +88,7 @@ https://assetstore.unity.com/
 
 - ### 4강
 
-[self] 꿀팁) .cs 파일 vscode와 연동시키기
+[self] 꿀팁) .cs 파일 vs와 연동시키기
 
 
 
